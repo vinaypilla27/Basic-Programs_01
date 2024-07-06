@@ -1,4 +1,4 @@
-package basics_01;
+package string_programs;
 
 public class ReverseOfString {
     public static void main(String[] args) {
